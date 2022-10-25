@@ -28,7 +28,7 @@ jobs:
         - name: Deploy Firebase Hosting
           uses: w9jds/firebase-action@master
           with:
-            args: deploy --only hosting:souqmamy-7d5e6
+            args: deploy --only hosting:researchtask-efdd9
           env:
-            FIREBASE_TOKEN: 1//031Ty0OzF9462CgYIARAAGAMSNwF-L9IrTp_P-DNWXNrIhy6AlbM6AANgeCVFMxVjS5yVpze39eQ-NVCsx8yjYguhbDf90mrQBgY
+            FIREBASE_TOKEN: 1//03EpWgOSuUnGoCgYIARAAGAMSNwF-L9IroRNzBKs4L7Voc37AKrg6mJ7Ea46koyyiShBhnCtjv7rxBEQh7pRKAQs3om5pcX1ef50
             PROJECT_PATH: ./
