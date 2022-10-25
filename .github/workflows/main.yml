@@ -30,5 +30,5 @@ jobs:
           with:
             args: deploy --only hosting:researchtask-efdd9
           env:
-            FIREBASE_TOKEN: 1//03EpWgOSuUnGoCgYIARAAGAMSNwF-L9IroRNzBKs4L7Voc37AKrg6mJ7Ea46koyyiShBhnCtjv7rxBEQh7pRKAQs3om5pcX1ef50
+            FIREBASE_TOKEN: 1//03HNKfJf0HlakCgYIARAAGAMSNwF-L9Ir5fXGL_K7N1VB5t-NyqN7qD037EZqwYp_r_ILtGy2AnZ2J9lGP8h7qIbirLt2QL6_FVU
             PROJECT_PATH: ./
